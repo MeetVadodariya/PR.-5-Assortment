@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main() 
+main() 
 {
     int r, c;
     printf("Enter the array's row size: ");
